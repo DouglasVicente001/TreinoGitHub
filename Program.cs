@@ -14,8 +14,9 @@ namespace TesteEvellyn
         Zoologico zoologico = new Zoologico("Josefina","Adalberta", "Sobek");
         System.Console.WriteLine(zoologico);
         System.Console.WriteLine("ksmdlksmlkdmsalkmdkasdmalskmdlkasmdlkmaklsdmlaskmdlkmaslkmdlaskdmas");
-        var teste = 324324324;
-        System.Console.WriteLine(teste);
+        var dinossauro = "rex";
+        System.Console.WriteLine("TestandoTesta");
+        System.Console.WriteLine(dinossauro);
         }
     }
 }
